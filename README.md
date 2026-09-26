@@ -53,6 +53,28 @@ It hosts research code, experiments and project work.
   <img src="https://skillicons.dev/icons?i=py,pytorch,docker,kubernetes,raspberrypi,latex,git,github,vscode&perline=9" alt="Python, PyTorch, Docker, Kubernetes, Raspberry Pi, LaTeX, Git, GitHub, VS Code"/>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrcslabs/hrcslabs/main/profile/stats-dark.svg">
+    <img src="https://raw.githubusercontent.com/hrcslabs/hrcslabs/main/profile/stats.svg" alt="HRCS LABS GitHub stats">
+  </picture>
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrcslabs/hrcslabs/main/profile/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/hrcslabs/hrcslabs/main/profile/snake.svg" alt="Contribution graph being eaten by a snake">
+  </picture>
+</p>
+
+<p align="center"><sub>Stats and snake are regenerated daily by <a href=".github/workflows/profile-cards.yml">a GitHub Actions workflow</a> in this repository.</sub></p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:117A8B,45:1B4F72,100:0B1E3F&height=110&section=footer" width="100%" alt=""/>
 </p>
